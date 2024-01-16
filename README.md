@@ -20,22 +20,23 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimmynova&show_icons=true&locale=en&layout=compact" alt="kimmynova" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimmynova&show_icons=true&locale=en" alt="kimmynova" /></p>
-- how it works ヾ(≧▽≦*)o
+
+- how it works ヾ(≧▽≦*)o 
 Database use Mysql in xamp
 *Note= make sure put the system file put in (htdoc) 
 
--ROLE
- -super Admin 
+- ROLE
+ - super Admin 
     username:secret
     password:12345
 
- -HR
+ - HR
     username:kim
     password:12345
- -seller
+ - seller
     username:somnet
     password:12345
- -stock
+ - stock
     username:sela
     password:12345
 
